@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <b>View mẫu của menu:</b><br><br>
 
-<img style="width: 500px" src="https://github.com/HHNiOS/Menu-IGG-iOS/blob/main/photo_2023-05-16_15-32-42.jpg?raw=true">
+<img style="width: 500px" src="https://github.com/WeansHHN/iGG-By-HHNiOS/blob/main/photo_2023-05-16_15-32-42.jpg?raw=true">
 </div>
 
 <br>
