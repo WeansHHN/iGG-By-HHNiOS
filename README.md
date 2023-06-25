@@ -86,6 +86,6 @@ JRMemoryEngine engine = JRMemoryEngine(mach_task_self());
 * [x2niosvn (Nguyễn Xuân Nam)](https://github.com/x2niosvn)
   * Vì iGG
   <br>
-### [Download](https://github.com/HHNiOS/Menu-IGG-iOS/releases/tag/ios)
+### [Download](https://github.com/WeansHHN/iGG-By-HHNiOS/releases/tag/HHN)
 <br>
 <br>
