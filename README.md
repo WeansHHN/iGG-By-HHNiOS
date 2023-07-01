@@ -26,7 +26,7 @@
 <br>
 
 ### Yêu cầu:
-* Yêu cầu cài SDK "iPhoneOS11.2.sdk" vào Theos
+* Yêu cầu cài SDK "iPhoneOS11.2.sdk" và "iPhoneOS13.0.sdk" vào Theos
 ### Setup menu:
 * Kích hoạt menu
 
@@ -34,7 +34,7 @@
 //Mở menu bằng 3 ngón tay
   UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] init];
     tap.numberOfTapsRequired = 2;      // Cảm ưng đa điểm
-    tap.numberOfTouchesRequired = 3;   // Chạm ngón tay số
+    tap.numberOfTouchesRequired = 3;   // Chạm số ngón tay
     [Window addGestureRecognizer:tap];
     [tap addTarget:self action:@selector(expand)]; // Kiểm tra trạng thái
     ]);
@@ -53,7 +53,7 @@ patchOffset(0x103685368, 0xF657BDA9);
 * Đối với iGG code
 
 ```obj-c
-//Ví dụ với code iGG AIM Elsu lỏ vcl của 1 iDol đbrr nào đó 😂😂
+//Ví dụ với code iGG AIM Elsu mà nhiều idol đang dùng để TĂNG GIÁ SẢN PHẨM=))
 
 JRMemoryEngine engine = JRMemoryEngine(mach_task_self());
         AddrRange range = (AddrRange){0x100000000,0x160000000};
@@ -77,8 +77,9 @@ JRMemoryEngine engine = JRMemoryEngine(mach_task_self());
 //iGG không cần bite gốc, đồng nghĩa với viêc bật là không tắt được, bạn cần có thêm code iGG để tắt chức năng.
 
 ```
-###  Thông tin thêm:
+### Ghi chú:
 * Địt mẹ thằng hắc tơ🐧🐧🐧
+* Custom lại rất dễ nên hãy sử dụng 100% bộ não để custom nhé, chúc bạn may mắn=))
 <br>
 
 ### Credits:
