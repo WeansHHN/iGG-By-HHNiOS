@@ -1,0 +1,13 @@
+Package: com.hhnios.pubgvngatena
+Name: PUBG VNG Antena
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Mod Menu by HHNiOS!
+Maintainer: HHNiOS
+Author: HHNiOS
+Depiction: 
+SileoDepiction: 
+Section: PUBG
+Homepage: https://hhnios.github.io
+Version: 0.1.0
+
